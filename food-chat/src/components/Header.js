@@ -7,7 +7,7 @@ const Header = () => {
     <header className="headerStyle">
       <div className="logoStyle">Food Suggestion Chatbot</div>
       <nav className="navStyle">
-        <li className="navItemStyle"><Link to="/Home">HOME</Link></li>
+        <li className="navItemStyle"><Link to="/">HOME</Link></li>
         <li className="navItemStyle"><Link to="/Menu">MENU</Link></li>
         <li className="navItemStyle"><Link to="/Chatbot">CHATBOT</Link></li>
         {/* Repeat for other nav items */}
