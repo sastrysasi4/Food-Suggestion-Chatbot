@@ -1,0 +1,13 @@
+.streamlit-iframe-container {
+  width: 100vw;  /* 100% of the viewport width */
+  height: 100vh; /* 100% of the viewport height */
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Hide scrollbars if any */
+}
+
+.fullscreen-iframe {
+  width: 90%;
+  height: 90%;
+  border: none; /* Remove border */
+}

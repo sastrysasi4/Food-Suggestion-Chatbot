@@ -1,0 +1,278 @@
+{
+    "menu": {
+      "vegAppetizers": [
+        {
+          "name": "Pakoras Onion / Spinach",
+          "description": "Delicately spiced (Onion or Spinach or Both) fritters dipped in batter and fried."
+        },
+        {
+          "name": "Vegetable Samosa",
+          "description": "Two crisp patties stuffed with potatoes and green peas."
+        },
+        {
+          "name": "Chili Paneer",
+          "description": "Homemade cheese, chilies and onions sautéed and cooked with spicy curry."
+        },
+        {
+          "name": "Gobi Manchurian",
+          "description": "Cauliflower battered & cooked with manchurian sauce."
+        },
+        {
+          "name": "Paneer 555",
+          "description": "Fried homemade cheese cubes tossed in spicy & herbed masala."
+        },
+        {
+          "name": "Mirchi Bajji (6pc)",
+          "description": "Mirchi or Chili is stuffed with a tangy spice mix & dipped in besan batter and fried."
+        },
+        {
+          "name": "Cut Mirchi",
+          "description": "Cut chili pakoras garnished with spiced onions."
+        }
+      ],
+      "nonVegAppetizers": [
+        {
+          "name": "Chicken Manchurian",
+          "description": "Boneless chicken cooked with manchurian sauce."
+        },
+        {
+          "name": "Chicken 65",
+          "description": "Boneless chicken cubes marinated with Indian spices and deep fried."
+        },
+        {
+          "name": "Chili Chicken",
+          "description": "Boneless chicken, chilies and onions sautéed and cooked with spicy curry"
+        },
+        {
+          "name": "Fish Pakoda",
+          "description": "Curry leaf, crushed chili & yogurt sauce."
+        },
+        {
+          "name": "Apollo Fish",
+          "description": "Curry leaf, crushed chili & yogurt sauce."
+        },
+        {
+          "name": "Chili Shrimp",
+          "description": "Shrimp corn battered and deep fried, mixed with stir fried spring onions capsicum soy sauce and sweet red chili peppers."
+        }
+      ],
+      "southIndianSpecialties": [
+        {
+          "name": "Idly Sambar 4pc",
+          "description": "Steam cooked Rice cakes served with sambar."
+        },
+        {
+          "name": "Dosa (Plain/Onion/Masala)",
+          "description": "Crepe made with fermented lentil and rice flour."
+        },
+        {
+          "name": "Mysore Masala Dosa",
+          "description": "Dosa with spicy sauce and stuffed with potatoes."
+        },
+        {
+          "name": "Andhra Kara Dosa",
+          "description": "Dosa coated with specially made Andhra chili and spice paste."
+        },
+        {
+          "name": "Rava Dosa (Plain/Masala)",
+          "description": "Crepe made with and rice flour and semolina (plain or with onion&chillies or with potato masala)."
+        },
+        {
+          "name": "Ruchi South Indian Combo",
+          "description": "Masala dosa with 2 idly and sambar."
+        }
+      ],
+      "vegetarianEntrees": [
+        {
+          "name": "Aloo Gobi",
+          "description": "Potatoes and cauliflower cooked with special spices."
+        },
+        {
+          "name": "Dal Fry",
+          "description": "Lentils cooked with spices."
+        },
+        {
+          "name": "Kadai Paneer",
+          "description": "Homemade cheese cubes cooked with tomatoes, onions and bell peppers."
+        },
+        {
+          "name": "Paneer Butter Masala",
+          "description": "Homemade cheese cubes cooked with creamy tomato and butter sauce."
+        },
+        {
+          "name": "Palak Paneer",
+          "description": "Creamy Spinach with Indian spices."
+        },
+        {
+          "name": "Malai Kofta",
+          "description": "Vegetables and cheese dumplings cooked in mildly spiced sauce."
+        },
+        {
+          "name": "Navaratan Kurma",
+          "description": "Mixed vegetables in mildly spiced sauce with dry fruits and nuts."
+        },
+        {
+          "name": "Chana Masala",
+          "description": "Garbanzo beans cooked with Indian spices."
+        }
+      ],
+      "nonVegEntrees": [
+        {
+          "name": "Egg Masala",
+          "description": "Eggs cooked with spices."
+        },
+        {
+          "name": "Chicken Tikka Masala",
+          "description": "Boneless chicken tikka cooked in a spicy sauce."
+        },
+        {
+          "name": "Chicken Chettinadu",
+          "description": "Boneless chicken cooked with south Indian spices."
+        },
+        {
+          "name": "Chicken Makhani",
+          "description": "Boneless chicken cooked in butter sauce with mild spices."
+        },
+        {
+          "name": "Kadai Chicken",
+          "description": "Boneless chicken cooked with tomatoes & onions."
+        },
+        {
+          "name": "Chicken Vindaloo",
+          "description": "Boneless chicken cooked with south Indian spices."
+        },
+        {
+          "name": "Chicken Curry",
+          "description": "Boneless chicken cooked with Indian spices."
+        },
+        {
+          "name": "Chicken Saag",
+          "description": "Chicken cooked in saag sauce."
+        },
+        {
+          "name": "Lamb/Goat Curry",
+          "description": "Boneless Lamb/Goat cooked in curry sauce."
+        },
+        {
+          "name": "Lamb/Goat Saag",
+          "description": "Boneless lamb/goat bone in goat cooked in curry sauce."
+        },
+        {
+          "name": "Lamb Vindaloo",
+          "description": "Boneless lamb & potatoes cooked in hot & spicy sauce."
+        },
+        {
+          "name": "Chettinadu Goat",
+          "description": "Boneless lamb cooked with south Indian spices."
+        },
+        {
+          "name": "Lamb Roganjosh",
+          "description": "Boneless lamb cooked with onions, ginger, garlic, tumeric, tomato, & yogurt sauce in butter sauce with mild spices."
+        },
+        {
+          "name": "Fish Masala",
+          "description": "Fish curry cooked with Indian spices."
+        },
+        {
+          "name": "Shrimp Masala",
+          "description": "Shrimp curry cooked with Indian spices."
+        }
+      ],
+      "tandooriSpecialties": [
+        {
+          "name": "Tandoori Chicken",
+          "description": "Half a chicken marinated in yogurt with special herbs and spices."
+        },
+        {
+          "name": "Tandoori Chicken Tikka",
+          "description": "Boneless chicken marinated in yogurt with herbs and spices."
+        },
+        {
+          "name": "Tandoori Shrimp",
+          "description": "Jumbo shrimp cooked on skewers."
+        },
+        {
+          "name": "Tandoori Mixed Grill",
+          "description": "A combination of all the above tandoori dishes."
+        }
+      ],
+      "biryaniSpecialties": [
+        {
+          "name": "Vegetable Biryani",
+          "description": "Mixed vegetables cooked with basmati rice in mild spices and herbs."
+        },
+        {
+          "name": "Paneer Biryani",
+          "description": "Paneer cooked with basmati rice in mild spices and herbs."
+        },
+        {
+          "name": "Egg Biryani",
+          "description": "Whole egg cooked with basmati rice in mild spices and herbs."
+        },
+        {
+          "name": "Chicken Dum Biryani",
+          "description": "Chicken cooked with basmati rice in Hyderabadi style."
+        },
+        {
+          "name": "Ulavacharu Chicken Dum Biryani",
+          "description": "Chicken marinated in Ulavacharu and cooked with rice and herbs."
+        },
+        {
+          "name": "Vijayawada Chicken Dum Biryani",
+          "description": "Chicken cooked with basmati rice in Vijayawada style."
+        },
+        {
+          "name": "Gongura Chicken Biryani",
+          "description": "Chicken marinated in gongura sauce and cooked with rice and herbs."
+        },
+        {
+          "name": "Lamb/Goat Biryani",
+          "description": "Lamb/Goat cooked with basmati rice in mild spices and herbs."
+        },
+        {
+          "name": "Ulavacharu Goat Biryani",
+          "description": "Goat marinated in Ulavacharu and cooked with rice and herbs."
+        },
+        {
+          "name": "Gongura Goat Biryani",
+          "description": "Goat marinated in gongura sauce and cooked with rice and herbs."
+        },
+        {
+          "name": "Shrimp Biryani",
+          "description": "Shrimp cooked with basmati rice in mild spices and herbs."
+        }
+      ],
+      "sideOrdersAndBread": [
+        {
+          "name": "Naan",
+          "description": "Indian bread made with all purpose flour baked in clay oven."
+        },
+        {
+          "name": "Garlic Naan",
+          "description": "Naan stuffed with garlic."
+        },
+        {
+          "name": "Cheese Naan",
+          "description": "Naan stuffed with cheese."
+        },
+        {
+          "name": "Onion Kulcha",
+          "description": "Naan stuffed with onions."
+        },
+        {
+          "name": "Roti",
+          "description": "Whole-wheat Indian bread baked in clay oven."
+        }
+      ],
+      "DessertsandDrinks": [
+        {
+          "name": "Gulab Jamun",
+          "description": "Indian milk cheese balls fried and soaked in honey syrup."
+        },
+        {
+          "name": "Mango Lassi",
+          "description": "Homemade yogurt flavored with mango, a delightful drink."
+        }
+      ]
+    }
+}      
