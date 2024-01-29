@@ -7,7 +7,7 @@ Designed to assist customers in selecting suitable dishes, the Chatbot offers pe
 Additionally, users can view a comprehensive food menu within the React Application and have access to the functionalities provided by the Streamlit UI.
 
 **Streamlit Output**
-![Streamlit Output](./food-chat/public/streamlit_output.png "Streamlit Output")
+![Streamlit Output](./food-chat/public/Streamlit_output.png "Streamlit Output")
 
 
 **React Output**
